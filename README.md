@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi GitHub, I'm Justin
+- Currently a student studying C++
+- Preparing for UC Berkeley transfer
+- I'll be putting my projects here
 
 <!--
 **justin-com/justin-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
