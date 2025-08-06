@@ -1,5 +1,5 @@
 # Hi GitHub, I'm Justin
-- Currently a student studying C++
+- Currently a student studying C++ and Python
 - Preparing for UC Berkeley transfer
 - I'll be putting my projects here
 
